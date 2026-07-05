@@ -1,5 +1,7 @@
 # City Traffic Navigation System using Graph Data Structure
 
+DEPLOYED LINK:-https://urbanpulse-navigation-production.up.railway.app/
+
 An interactive web application demonstrating traffic-aware routing and navigation in a dynamic city grid. The system uses advanced graph data structures and routing algorithms to optimize traffic flow, compute shortest paths, and simulate real-time traffic dynamics.
 
 ## Key Features
